@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849172c-a81a-46a6-98eb-ec00c48e8ad6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../LinkedListLoop/LinkedListLoop/obj/Debug/netcoreapp2.1/LinkedListLoop.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListLoop/LinkedListLoop/obj/Debug/netcoreapp2.1/LinkedListLoop.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SinglyLinkedList/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SinglyLinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListLoop/LinkedListLoop/LinkedListLoop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListLoop/LinkedListLoop/Node.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListLoop/LinkedListLoop/Node.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SinglyLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SinglyLinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +16,7 @@
     <session id="-2097386251">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
@@ -213,12 +214,12 @@
       <updated>1548698299471</updated>
       <workItem from="1548698300582" duration="5300000" />
       <workItem from="1548744604965" duration="5502000" />
-      <workItem from="1548751043240" duration="2663000" />
+      <workItem from="1548751043240" duration="3237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13465000" />
+    <option name="totallyTimeSpent" value="14039000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
